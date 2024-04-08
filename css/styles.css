@@ -11093,7 +11093,7 @@ html {
 
 /* Overlay Styles */
 .overlay {
-  background-color: rgba(0, 0, 0, 0.75); /* Black with 50% opacity */
+  background-color: rgba(0, 0, 0, 0.5); /* Black with 50% opacity */
   color: #fff; /* White text color for content */
   padding: 50px;
 }
