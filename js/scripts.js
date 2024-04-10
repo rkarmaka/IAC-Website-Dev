@@ -63,3 +63,4 @@ document.addEventListener('DOMContentLoaded', (event) => {
         pastActivities.classList.toggle('d-none');
     });
 });
+
